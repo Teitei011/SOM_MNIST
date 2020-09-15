@@ -1,2 +1,2 @@
 # SOM_MNIST
-Self Organizing Maps waith MNIT data
+Self Organizing Maps with MNIST data
